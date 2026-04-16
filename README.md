@@ -1,5 +1,28 @@
 # AI-Job-Market-Trends-2026
 
+## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="dashboard_preview.png" alt="AI Job Market Dashboard 2026" width="900">
+</p>
+
+ ## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="dashboard_preview.png" alt="AI Job Market Dashboard 2026"
+       width="900"
+       style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+</p>
+
+## 📸 Dashboard Preview
+
+<div align="center">
+  <img src="dashboard_preview.png" width="900" alt="Dashboard">
+  <br>
+  <sub><i>AI Job Market Dashboard – Interactive Visual Insights</i></sub>
+</div>
+
+
 <p align="center">
 
   <!-- Project Title Badge -->
