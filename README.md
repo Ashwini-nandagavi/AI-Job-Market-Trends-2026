@@ -1,26 +1,18 @@
-# AI-Job-Market-Trends-2026
+### AI-Job-Market-Trends-2026
 
-## 📸 Dashboard Preview
+An Interactive Streamlit Dashboard for Global AI & Data Science Jobs
+<img src="a_banner_style_digital_graphic_for_the_ai_job_mar.png" width="100%"/>
+📌 Overview
 
-<p align="center">
-  <img src="dashboard_preview.png" alt="AI Job Market Dashboard 2026" width="900">
-</p>
+This project is a fully interactive Streamlit dashboard that analyzes the global AI, Machine Learning, and Data Science job market in 2026.
+It provides deep insights into:
 
- ## 📸 Dashboard Preview
-
-<p align="center">
-  <img src="dashboard_preview.png" alt="AI Job Market Dashboard 2026"
-       width="900"
-       style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
-</p>
-
-## 📸 Dashboard Preview
-
-<div align="center">
-  <img src="dashboard_preview.png" width="900" alt="Dashboard">
-  <br>
-  <sub><i>AI Job Market Dashboard – Interactive Visual Insights</i></sub>
-</div>
+💰 Salary distribution & role-wise salary comparison
+🌍 Country-level hiring trends
+📈 Experience vs salary relationships
+🛠 Skill demand across AI job roles
+📌 Job openings by job title
+🔍 Multi-level filtering across job titles, skills, experience & countries
 
 
 <p align="center">
