@@ -6,14 +6,14 @@ An Interactive Streamlit Dashboard for Global AI & Data Science Jobs
 
 This project is a fully interactive Streamlit dashboard that analyzes the global AI, Machine Learning, and Data Science job market in 2026.
 It provides deep insights into:
-
-💰 Salary distribution & role-wise salary comparison
-🌍 Country-level hiring trends
-📈 Experience vs salary relationships
-🛠 Skill demand across AI job roles
-📌 Job openings by job title
-🔍 Multi-level filtering across job titles, skills, experience & countries
-
+###
+-💰 Salary distribution & role-wise salary comparison
+-🌍 Country-level hiring trends
+-📈 Experience vs salary relationships
+-🛠 Skill demand across AI job roles
+-📌 Job openings by job title
+-🔍 Multi-level filtering across job titles, skills, experience & countries
+---
 
 <p align="center">
 
