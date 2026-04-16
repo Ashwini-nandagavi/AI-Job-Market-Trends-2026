@@ -1,7 +1,7 @@
 ### AI-Job-Market-Trends-2026
 
 An Interactive Streamlit Dashboard for Global AI & Data Science Jobs
-<img src="a_banner_style_digital_graphic_for_the_ai_job_mar.png" width="100%"/>
+<img src="dashboard.png" width="100%"/>
 📌 Overview
 
 This project is a fully interactive Streamlit dashboard that analyzes the global AI, Machine Learning, and Data Science job market in 2026.
